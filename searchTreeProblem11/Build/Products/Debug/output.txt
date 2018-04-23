@@ -1,0 +1,12 @@
+Adjacency list of vertex 0
+
+Adjacency list of vertex 1
+3 -> 
+Adjacency list of vertex 2
+3 -> 
+Adjacency list of vertex 3
+5 -> 1 -> 2 -> 
+Adjacency list of vertex 4
+5 -> 
+Adjacency list of vertex 5
+6 -> 3 -> 4 -> 
